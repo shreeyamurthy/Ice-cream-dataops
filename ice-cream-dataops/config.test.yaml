@@ -17,7 +17,7 @@ variables:
       data_foundation:
         data_developer_source_id: 228edb80-933c-446d-9730-543e310bc614
       ice_cream_api:    
-        icapi_extractors_source_id: 99b463bc-5583-48f7-8cdc-6bb1673d1074
+        icapi_extractors_source_id: 20f419d3-5392-4e59-a67d-2c81debd52e9
         tokenUri: ${IDP_TOKEN_URL}
         cdfProjectName: ${CDF_PROJECT}
         scopes: ${IDP_SCOPES}
@@ -28,7 +28,7 @@ variables:
 
       use_cases:
         oee:
-          data_pipeline_oee_source_id: d434b03f-7a39-462f-9a71-b082e317b204
+          data_pipeline_oee_source_id: f0314a5a-3a5f-4dcc-a5f8-8bd0b42a76ed
           uc_oee_ds_external_id: ds_uc_oee
           oee_space_name: oee_ts_space
           data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID}
